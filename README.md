@@ -31,7 +31,7 @@
 
 - **구조 :** Character 클래스와 하위 Component
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/0ab5eb63-0d5e-4c59-bf70-ba59689a6a34" alt="Character"       style="width:70%;">
+    <img src="https://github.com/user-attachments/assets/aac777e6-0605-4f93-97c9-71d1c7d753a3" alt="Character"       style="width:70%;">
     </div>
     
 - **하위 Component 예시**
@@ -57,7 +57,7 @@
 
 - **구조**:
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/828742a6-28be-495b-8ea8-eb80ead87a30" alt="Character" style="width:50%;">
+    <img src="https://github.com/user-attachments/assets/549268ef-98bd-4ad2-9a57-2e22ece19e79" alt="Character" style="width:50%;">
     </div>
     
     - 모든 무기가 공통으로 가지는 특성을 포함하는 **Base Weapon** 클래스를 생성.
@@ -78,7 +78,7 @@
 
 - 구조
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/d703b1e7-284f-4866-9e91-7ec5911900d8" alt="Character" style="width:50%;">
+    <img src="https://github.com/user-attachments/assets/ab7a997b-fc41-4e7f-8d5e-ea376392ef63" alt="Character" style="width:50%;">
     </div>
     
     - **Item / Item Object**:
@@ -97,7 +97,7 @@
 ## 2. 전체 게임 진행
 
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/92e17a74-d664-4caa-82df-0e7636ff7726" alt="Character" style="width:60%;">
+    <img src="https://github.com/user-attachments/assets/ac9f2220-9626-40f3-94f6-60277542a850" alt="Character" style="width:60%;">
   </div>
 
 - **MainMenu**:
