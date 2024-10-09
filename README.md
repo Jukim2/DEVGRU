@@ -56,8 +56,9 @@
 ### b. 총기 구현
 
 - **구조**:
+
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/549268ef-98bd-4ad2-9a57-2e22ece19e79" alt="Character" style="width:50%;">
+    <img src="https://github.com/user-attachments/assets/a8587ecd-e4cf-4913-8473-e7ba811f88b3" alt="Character" style="width:70%;">
     </div>
     
     - 모든 무기가 공통으로 가지는 특성을 포함하는 **Base Weapon** 클래스를 생성.
@@ -77,8 +78,9 @@
 ### c. 인벤토리 구현
 
 - 구조
+
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/ab7a997b-fc41-4e7f-8d5e-ea376392ef63" alt="Character" style="width:50%;">
+    <img src="https://github.com/user-attachments/assets/7827d2c3-6b9e-41bd-b24f-321d907dfcab" alt="Character" style="width:70%;">
     </div>
     
     - **Item / Item Object**:
@@ -97,7 +99,7 @@
 ## 2. 전체 게임 진행
 
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/ac9f2220-9626-40f3-94f6-60277542a850" alt="Character" style="width:60%;">
+    <img src="https://github.com/user-attachments/assets/ac9f2220-9626-40f3-94f6-60277542a850" alt="Character" style="width:70%;">
   </div>
 
 - **MainMenu**:
